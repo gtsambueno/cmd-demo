@@ -1,6 +1,3 @@
 # cmd-demo
 
-Resolve conflicts using merge tool.
-
-
-Try mergetool
+This is the remaining content of the page.
