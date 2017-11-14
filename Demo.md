@@ -1,6 +1,6 @@
 # cmd-demo
 
-This is a sample change.
+Resolve conflicts using merge tool.
 
 
 Try mergetool
