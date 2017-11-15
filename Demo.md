@@ -3,11 +3,7 @@
 
 This is the content.
 
-Try a forking
+Try a merge.
 
 
-
-Try a forking.
-
-Check it out
 
