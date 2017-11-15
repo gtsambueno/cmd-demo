@@ -11,5 +11,4 @@ Try a merge.
 Check it out.
 >>>>>>> 8833d3c43900d780d312c934bfdfc3470d3ae448
 
-This should clear out.
 
